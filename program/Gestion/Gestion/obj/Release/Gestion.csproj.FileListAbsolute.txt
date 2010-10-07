@@ -1,0 +1,111 @@
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Release\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Release\Gestion.pdb
+E:\Gestion\program\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe.config
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.exe
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.pdb
+E:\Gestion\program\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe
+E:\Gestion\program\Trabajo\Gestion\Gestion\bin\Release\Gestion.pdb
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\ResolveAssemblyReference.cache
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddCliente.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProducto.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProveedor.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProd.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProv.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmBusquedaCliente.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmCantProVta.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmFactView.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmPrincipal.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateCliente.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProducto.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProveedor.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.Properties.Resources.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Release\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\bin\Release\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Release\Gestion.csproj.GenerateResource.Cache
+E:\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe.config
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.exe
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.pdb
+E:\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe
+E:\Trabajo\Gestion\Gestion\bin\Release\Gestion.pdb
+E:\Trabajo\Gestion\Gestion\obj\Release\ResolveAssemblyReference.cache
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddCliente.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProducto.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAddProveedor.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProd.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmAjusteProv.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmBusquedaCliente.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmCantProVta.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmFactView.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmPrincipal.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateCliente.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProducto.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.frmUpdateProveedor.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.Properties.Resources.resources
+E:\Trabajo\Gestion\Gestion\obj\Release\Gestion.csproj.GenerateResource.Cache
+D:\Sauron\Development\Trabajo\Gestion\Gestion\bin\Release\Gestion.exe.config
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Release\Gestion.exe
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Release\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\bin\Release\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\bin\Release\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\bin\Release\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmBMRemito.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmCheque.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmCiudad.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmContado.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmPagosFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmRemitoContado.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Release\Gestion.frmRemitosXFactura.resources
