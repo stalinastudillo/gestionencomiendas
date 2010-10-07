@@ -1,0 +1,846 @@
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Trabajo\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Trabajo\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Trabajo\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Trabajo\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Casi casi\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Casi casi\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Casi casi\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Casi casi\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\Gestion Jona\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\ftp\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\Gestion\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\program\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo Gestion alpha\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\TRABAJO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+D:\Sauron\Development\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+D:\Sauron\Development\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+D:\Sauron\Development\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+E:\Gestion\program\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Gestion\program\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\Gestion\program\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\Gestion\program\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+E:\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+D:\Sauron\Development\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+E:\gestion\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\gestion\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\gestion\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+E:\gestion\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta 2\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAddProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProv.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProveedor.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta POSTA\Trabajo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmFactViewRecibo.resources
+C:\Documents and Settings\Administrador\Escritorio\Trabajo\Gestion\Gestion\obj\Debug\Gestion.frmRecView.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\bin\Debug\Gestion.exe.config
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.exe
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.pdb
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\bin\Debug\Gestion.exe
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\bin\Debug\Gestion.pdb
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+D:\Proyectos ConoSoft\Gestión Encomiendas\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas nuevo\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Diego\Gestión Encomiendas11\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Programas\Gestión Encomiendas11b\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Programas\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Programas\Gestión Encomiendas11b\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Diego\Gestion Encomiendas 11c\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Diego\Gestion Encomiendas 11d\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Diego\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Diego\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11d\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas 11e\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmCantProVta.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas20\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+E:\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\Chango\Desktop\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+D:\Shared\Gestion Encomiendas Miercoles 3-06\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+E:\Gestion Encomiendas Final Final Final\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Gestion Encomiendas Final Final Final\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Gestion Encomiendas Final Final Final\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\Gestion Encomiendas\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBMRemito.resources
+E:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBMRemito.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPagosFactura.resources
+K:\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+K:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+K:\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCheque.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmContado.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmActualizarFactura.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmActualizarFactura.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBMRemito.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCheque.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmContado.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPagosFactura.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+E:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmResumenFacturas.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmResumenFacturas.resources
+E:\ConoSoft\Gestion Encomiendas 22-07-09\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\ConoSoft\Gestion Encomiendas 22-07-09\program\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\ConoSoft\Gestion Encomiendas 22-07-09\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.exe
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\bin\Debug\Gestion.exe
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmActualizarFactura.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmBMRemito.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmCheque.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmContado.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmPagosFactura.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmResumenFacturas.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+E:\ConoSoft\Gestion Encomiendas 23-07-09\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe.config
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.exe
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.pdb
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.exe
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\bin\Debug\Gestion.pdb
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\ResolveAssemblyReference.cache
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmActualizarFactura.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddCliente.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAddProducto.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAjusteProd.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmAMUsuario.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBMRemito.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmBusquedaCliente.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCantidadPrecio.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCheque.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmCiudad.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmContado.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmEmpresa.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmGestionUsuario.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmLogin.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPagosFactura.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrincipal.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmPrintFactura.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitoContado.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmRemitosXFactura.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmResumenFacturas.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateCliente.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.frmUpdateProducto.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+d:\ConoSoft\Gestion Encomiendas\program\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.Cache
