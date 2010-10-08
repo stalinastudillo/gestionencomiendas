@@ -1,0 +1,1 @@
+mysql --host=Diego --password=postal --user=postal gestionDelivery < %1

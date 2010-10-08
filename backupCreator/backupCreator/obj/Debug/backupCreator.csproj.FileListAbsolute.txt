@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\bin\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\bin\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\obj\Debug\backupCreator.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\obj\Debug\backupCreator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\bin\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\bin\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\obj\Debug\backupCreator.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO\backupCreator\backupCreator\obj\Debug\backupCreator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO posta\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\LO ULTIMO DE LO ULTIMO casi posta\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\backupCreator\backupCreator\obj\Debug\WindowsFormsApplication1.formPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\obj\Debug\WindowsFormsApplication1.formPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\obj\Debug\backupCreator.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\obj\Debug\backupCreator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\bin\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas201\backupCreator\backupCreator\bin\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\bin\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\bin\Debug\backupCreator.pdb
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\WindowsFormsApplication1.formPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+C:\Documents and Settings\Administrador\Escritorio\old\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
+E:\ConoSoft\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.exe
+E:\ConoSoft\Gestion Encomiendas\backupCreator\backupCreator\obj\Debug\backupCreator.pdb
